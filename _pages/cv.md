@@ -13,12 +13,14 @@ Education
 =====
 * Ph.D in Statistics
   * Boston University, Boston, MA, 2024
+    
 * M.S.E. in Financial Mathematics
   * Johns Hopkins University, Baltimore, MD, 2019
+
 * B.S. in Mathematics and Applied Mathematics
-  * Renmin University of China, Beijing, China, 2017
 * B.E. in Computer Science
   * Renmin University of China, Beijing, China, 2017
+
 
 Research Experience
 =====
@@ -39,16 +41,17 @@ Research Experience
 
 Industry Experience
 =====
-* Portfolio Management Intern, Stepstone Group, La Jolla, CA 09/2023 - 01/2024
+* Portfolio Management Intern
+  * Stepstone Group, La Jolla, CA 09/2023 - 01/2024
   * Calculated and analyzed the net asset values for private equity assets among all industry groups as time series
   * Developed a method to interpolate quarterly unrealized asset value in the database using cash flows of private equities
 * Quantitative Researcher Intern, IMC Trading, Chicago, IL 06/2023 - 08/2023
   * Designed and implemented statistical methodologies to identify and execute trading signals for option implied volatility
-  * Conducted in-depth Prot and Loss analysis using advanced option theory, leading to creation of dynamic optimization strategies for maximizing option position protability
+  * Conducted in-depth Profit and Loss analysis using advanced option theory, leading to creation of dynamic optimization strategies for maximizing option position profitability
 * Data and Quantitative Analytics Intern, Stepstone Group, La Jolla, CA 01/2023 - 05/2023
-*   Developed multi-factor models for infrastructure portfolio analysis and incorporated them into Daily Valuation Engine
-*   Conducted comprehensive analysis and optimization of existing models for private equity portfolio return forecasting,
-driving signicant improvements in accuracy and providing valuable insights for predicting market trends
+  * Developed multi-factor models for infrastructure portfolio analysis and incorporated them into Daily Valuation Engine
+  * Conducted comprehensive analysis and optimization of existing models for private equity portfolio return forecasting,
+driving significant improvements in accuracy and providing valuable insights for predicting market trends
 
 Professional Skills
 =====
