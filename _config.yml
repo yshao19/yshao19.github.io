@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yu Shao / Site Title"
+title                    : "Yu Shao / 品万卷堂 Hall of Ten Thousand Tomes"
 title_separator          : "-"
 name                     : &name "Yu Shao"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://yushao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,11 +22,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Hall of Ten Thousand Tomes"
   pronouns         : "he/his"  # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Yu Shao earned his Ph.D. in Statistics at Boston University's Department of Mathematics and Statistics in May 2024. His research interests lie at the intersection of time series analysis, kernel-based nonparametric learning, and financial applications."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Boston University"
   uri              : # URL
   email            : "yshao19@bu.edu" 
 
@@ -36,14 +36,14 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0001-0242-8866"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/yshao19/"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
