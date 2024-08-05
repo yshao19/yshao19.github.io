@@ -9,13 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics, Boston University, Boston, MA, 2024
+* M.S.E. in Financial Mathematics, Johns Hopkins University, Baltimore, MD, 2019
+* B.S. in Mathematics and Applied Mathematics, Renmin University of China, Beijing, China, 2017
+* B.E. in Computer Science, Renmin University of China, Beijing, China, 2017
 
-Work experience
+RESEARCH EXPERIENCE
 ======
 * Spring 2024: Academic Pages Collaborator
   * Github University
@@ -31,16 +32,29 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
+INDUSTRY EXPERIENCE
+=====
+* Portfolio Management Intern, Stepstone Group, La Jolla, CA 09/2023 - 01/2024
+  * Calculated and analyzed the net asset values for private equity assets among all industry groups as time series
+  * Developed a method to interpolate quarterly unrealized asset value in the database using cash flows of private equities
+* Quantitative Researcher Intern, IMC Trading, Chicago, IL 06/2023 - 08/2023
+  * Designed and implemented statistical methodologies to identify and execute trading signals for option implied volatility
+  * Conducted in-depth Prot and Loss analysis using advanced option theory, leading to creation of dynamic optimization strategies for maximizing option position protability
+* Data and Quantitative Analytics Intern, Stepstone Group, La Jolla, CA 01/2023 - 05/2023
+*   Developed multi-factor models for infrastructure portfolio analysis and incorporated them into Daily Valuation Engine
+*   Conducted comprehensive analysis and optimization of existing models for private equity portfolio return forecasting,
+driving signicant improvements in accuracy and providing valuable insights for predicting market trends
+
+PROFESSIONAL SKILLS
+======
+* Computer Skills:
+  *  Python, R, C, C++, Java, MATLAB, SAS, VBA, and PL/SQL
+
+Certicate
+=====
+* Chartered Financial Analyst (CFA) Level III Passed
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
