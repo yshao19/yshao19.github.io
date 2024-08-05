@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yu Shao / 品万卷堂 Hall of Ten Thousand Tomes"
+title                    : "Yu Shao / Hall of Ten Thousand Tomes"
 title_separator          : "-"
 name                     : &name "Yu Shao"
 description              : &description "personal description"
-url                      : https://yushao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yshao19.github.io/yushao.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -25,7 +25,7 @@ author:
   name             : "Hall of Ten Thousand Tomes"
   pronouns         : "he/his"  # example: "she/her"  
   bio              : "Yu Shao earned his Ph.D. in Statistics at Boston University's Department of Mathematics and Statistics in May 2024. His research interests lie at the intersection of time series analysis, kernel-based nonparametric learning, and financial applications."
-  location         : "Earth"
+  location         : "Boston, MA"
   employer         : "Boston University"
   uri              : # URL
   email            : "yshao19@bu.edu" 
