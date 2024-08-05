@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Hall of Ten Thousand Tomes"
+  name             : "Yu Shao"
   pronouns         : "he/his"  # example: "she/her"  
   bio              : "Yu Shao earned his Ph.D. in Statistics at Boston University's Department of Mathematics and Statistics in May 2024. His research interests lie at the intersection of time series analysis, kernel-based nonparametric learning, and financial applications."
   location         : "Boston, MA"
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/yu-shao-7b2762248/ # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
