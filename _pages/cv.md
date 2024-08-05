@@ -9,15 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
-EDUCATION
-======
-* Ph.D in Statistics, Boston University, Boston, MA, 2024
-* M.S.E. in Financial Mathematics, Johns Hopkins University, Baltimore, MD, 2019
-* B.S. in Mathematics and Applied Mathematics, Renmin University of China, Beijing, China, 2017
-* B.E. in Computer Science, Renmin University of China, Beijing, China, 2017
+Education
+=====
+* Ph.D in Statistics
+  * Boston University, Boston, MA, 2024
+* M.S.E. in Financial Mathematics
+  * Johns Hopkins University, Baltimore, MD, 2019
+* B.S. in Mathematics and Applied Mathematics
+  * Renmin University of China, Beijing, China, 2017
+* B.E. in Computer Science
+  * Renmin University of China, Beijing, China, 2017
 
-RESEARCH EXPERIENCE
-======
+Research Experience
+=====
 * Spring 2024: Academic Pages Collaborator
   * Github University
   * Duties includes: Updates and improvements to template
@@ -33,7 +37,7 @@ RESEARCH EXPERIENCE
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-INDUSTRY EXPERIENCE
+Industry Experience
 =====
 * Portfolio Management Intern, Stepstone Group, La Jolla, CA 09/2023 - 01/2024
   * Calculated and analyzed the net asset values for private equity assets among all industry groups as time series
@@ -46,29 +50,29 @@ INDUSTRY EXPERIENCE
 *   Conducted comprehensive analysis and optimization of existing models for private equity portfolio return forecasting,
 driving signicant improvements in accuracy and providing valuable insights for predicting market trends
 
-PROFESSIONAL SKILLS
-======
+Professional Skills
+=====
 * Computer Skills:
   *  Python, R, C, C++, Java, MATLAB, SAS, VBA, and PL/SQL
 
-Certicate
+Certificate
 =====
 * Chartered Financial Analyst (CFA) Level III Passed
   
 Publications
-======
+=====
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
-======
+=====
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
-======
+=====
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
