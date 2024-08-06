@@ -1,9 +1,9 @@
 ---
 title: "Boston University, Department of Mathematics and Statistics"
 collection: teaching
-type: 
+type: ""
 permalink: 
-venue: 
+venue: "Boston, MA"
 date: 2022-09-01
 location: "Boston, MA"
 ---
