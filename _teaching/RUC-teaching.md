@@ -1,9 +1,9 @@
 ---
 title: "Renmin University of China"
 collection: teaching
-type: ""
+type: "School of Information"
 permalink: 
-venue: ""
+venue: "Beijing, China"
 date: 2017-01-01
 location: "Beijing, China"
 ---
