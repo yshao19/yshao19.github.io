@@ -8,10 +8,4 @@ redirect_from:
 ---
 
 
-
-Biography
-====
-
-
-
-**Yu Shao** is a _Ph.D. in Statistics_ at **Boston University**. His academic journey is marked by a strong foundation in _Mathematics and Computer Science_, with dual _Bachelor's Degrees_ from **Renmin University of China**, and a _Master's Degree in Financial Mathematics_ from **Johns Hopkins University**. His research interests lie at the intersection of time series analysis, kernel-based nonparametric learning, and financial applications. His work includes developing advanced statistical methods for non-stationary time series and implementing novel techniques in semiparametric regression models. Beyond academia, Yu has honed his skills in the finance industry through internships at Stepstone Group and IMC Trading, where he applied his expertise in quantitative analysis and trading strategies. His personal interests include fiction novels, classic Chinese literature and poetry appreciation, and marathon running.
+**Yu Shao** earned his Ph.D. in Statistics from **Boston University**. He also holds dual Bachelor's Degrees in Mathematics and Computer Science from **Renmin University of China** and a Master's Degree in Financial Mathematics from **Johns Hopkins University**. His research interests include time series analysis, kernel-based nonparametric learning, and their financial applications. He is dedicated to developing advanced statistical methods for nonstationary time series and implementing innovative techniques in semiparametric regression models. Beyond his academic pursuits, Yu Shao has gained experience in the finance industry through internships at the Stepstone Group and IMC Trading, where he applied his expertise in quantitative analysis and trading strategies. In addition to his academic and professional endeavors, Yu Shao enjoys reading fiction novels, classic Chinese literature and poetry, and participating in marathon running. If you would like to discuss potential collaboration opportunities with Yu Shao, please contact him at yshao19@bu.edu.
