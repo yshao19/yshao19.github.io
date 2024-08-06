@@ -11,15 +11,13 @@ redirect_from:
 
 Education
 =====
-* Ph.D. in Statistics
-  * Boston University, Boston, MA, 2024
+* Ph.D. in Statistics, Boston University, 2024
     
-* M.S.E. in Financial Mathematics
-  * Johns Hopkins University, Baltimore, MD, 2019
+* M.S.E. in Financial Mathematics, Johns Hopkins University, 2019
 
-* B.S. in Mathematics and Applied Mathematics
-* B.E. in Computer Science
-  * Renmin University of China, Beijing, China, 2017
+* B.S. in Mathematics and Applied Mathematics, Renmin University of China, 2017
+* B.E. in Computer Science, Renmin University of China, 2017
+
 
 
 Research Experience
