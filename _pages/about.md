@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yu Shao's Personal Website Hall of Million Tomes / 品万卷堂 "
+title: "Yu Shao's Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
