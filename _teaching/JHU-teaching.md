@@ -1,9 +1,9 @@
 ---
 title: "Johns Hopkins University"
 collection: teaching
-type: ""
+type: "Department of Applied Mathematics and Statistics"
 permalink: 
-venue: ""
+venue: "Baltimore, MD"
 date: 2019-01-01
 location: "Baltimore, MD"
 ---
