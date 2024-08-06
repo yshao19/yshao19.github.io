@@ -2,12 +2,12 @@
 title: "Time-varying correlation for noncentered nonstationary time series: simultaneous inference and visualization."
 collection: publications
 permalink: 
-excerpt: ''
+excerpt: 
 date: 2024-10-01
 venue: 'Statistica Sinica'
-slidesurl: ''
+slidesurl: 
 paperurl: 'https://www3.stat.sinica.edu.tw/preprint/SS-2022-0244_Preprint.pdf'
-citation: 'Zhang, T. and Shao, Y.* (2024). Time-varying correlation for noncentered nonstationary time series: simultaneous inference and visualization. Statistica Sinica, forthcoming.'
+citation: 'Zhang, T. and Shao, Y. (2024). Time-varying correlation for noncentered nonstationary time series: simultaneous inference and visualization. Statistica Sinica, forthcoming.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
