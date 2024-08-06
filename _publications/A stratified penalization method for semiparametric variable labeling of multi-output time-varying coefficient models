@@ -5,9 +5,7 @@ permalink: 'https://www3.stat.sinica.edu.tw/statistica/j33n2/J33N220/J33N220.htm
 excerpt: 
 date: 2023-10-01
 venue: 'Statistica Sinica'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+slidesurl: 
 paperurl: 'https://www3.stat.sinica.edu.tw/statistica/oldpdf/A33n220.pdf'
-citation: 'Zhang, T., Wang, W. and Shao, Y. (2023). A stratified penalization method for semiparametric variable labeling of multi-output time-varying coefficient models. _Statistica Sinica_, **33(2)**: 1025—1045.'
+citation: 'Zhang, T., Wang, W. and Shao, Y. (2023). A stratified penalization method for semiparametric variable labeling of multi-output time-varying coefficient models. Statistica Sinica, 33(2): 1025—1045.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
