@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 =====
 * Ph.D. in Statistics, Boston University, 2024
@@ -44,6 +45,7 @@ Research Experience
 
 Industry Experience
 =====
+
 * Portfolio Management Intern, 09/2023 - 01/2024, 01/2023 - 05/2023
   * Stepstone Group, La Jolla, CA
   * Calculated and analyzed the net asset values for private equity assets among all industry groups as time series
