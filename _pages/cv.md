@@ -58,16 +58,6 @@ driving significant improvements in accuracy and providing valuable insights for
   * IMC Trading, Chicago, IL 
   * Designed and implemented statistical methodologies to identify and execute trading signals for option implied volatility
   * Conducted in-depth Profit and Loss analysis using advanced option theory, leading to creation of dynamic optimization strategies for maximizing option position profitability
-
-
-Professional Skills
-=====
-* Computer Skills:
-  *  Python, R, C, C++, Java, MATLAB, SAS, VBA, and PL/SQL
-
-Certificate
-=====
-* Chartered Financial Analyst (CFA) Level III Passed
   
 Publications
 =====
@@ -86,7 +76,24 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Professional Skills
+=====
+* Computer Skills:
+  *  Python, R, C, C++, Java, MATLAB, SAS, VBA, and PL/SQL
+
+Certificate
+=====
+* Chartered Financial Analyst (CFA) Level III Passed
+
+Honors & Awards
 ======
-* Currently signed in to 43 different slack teams
+* Boston University
+  * Outstanding Teaching Fellow Award (2021)
+  * Dean's Fellowship (2019)
+* Johns Hopkins University
+  * Outstanding Master's Research Award (2019)
+* Renmin University of China
+  * Beijing Outstanding Graduate (2017)
+  * Jingdong Scholarship (2016)
+  * Excellent Student Cadre (2015)
