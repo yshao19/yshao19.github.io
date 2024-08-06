@@ -22,38 +22,38 @@ Education
 
 Research Experience
 =====
-* Research Assistant
-  * Department of Statistics, University of Georgia, 05/2022 - 09/2022
+* Research Assistant,  07/2024 - 09/2024, 05/2022 - 09/2022,
+  * Department of Statistics, University of Georgia
   * Topics: Time series analysis, nonparametric learning, quantile regression
   * Supervisor: Dr. Ting Zhang
     
-* Research Assistant
-  * Department of Mathematics and Statistics, Boston University, 09/2019 - 05/2024
+* Research Assistant, 09/2019 - 05/2024
+  * Department of Mathematics and Statistics, Boston University
   * Topics: Nonstationary time series, time-varying correlation, semiparametric models
   * Supervisor: Dr. Ting Zhang
     
-* Research Assistant,
-  * Applied Mathematics and Statistics Department, Johns Hopkins University, 12/2017 - 05/2019
+* Research Assistant, 12/2017 - 05/2019
+  * Applied Mathematics and Statistics Department, Johns Hopkins University
   * Topics: Stochastic fluid queues, ruin theory, distributed denial of service
   * Supervisor: Dr. Antwan D. Clark
     
-* Research Assistant
-  * Lab of Information System Application, Renmin University of China, 08/2015 - 06/2017
+* Research Assistant, 08/2015 - 06/2017
+  * Lab of Information System Application, Renmin University of China
   * Topics: Machine learning, sentiment analysis, feature engineering
   * Supervisor: Dr. Wei Xu
 
 Industry Experience
 =====
-* Portfolio Management Intern
-  * Stepstone Group, La Jolla, CA, 09/2023 - 01/2024, 01/2023 - 05/2023
+* Portfolio Management Intern, 09/2023 - 01/2024, 01/2023 - 05/2023
+  * Stepstone Group, La Jolla, CA
   * Calculated and analyzed the net asset values for private equity assets among all industry groups as time series
   * Developed a method to interpolate quarterly unrealized asset value in the database using cash flows of private equities
   * Conducted comprehensive analysis and optimization of existing models for private equity portfolio return forecasting,
 driving significant improvements in accuracy and providing valuable insights for predicting market trends
   * Developed multi-factor models for infrastructure portfolio analysis and incorporated them into Daily Valuation Engine
 
-* Quantitative Researcher Intern
-  * IMC Trading, Chicago, IL 06/2023 - 08/2023
+* Quantitative Researcher Intern, 06/2023 - 08/2023
+  * IMC Trading, Chicago, IL 
   * Designed and implemented statistical methodologies to identify and execute trading signals for option implied volatility
   * Conducted in-depth Profit and Loss analysis using advanced option theory, leading to creation of dynamic optimization strategies for maximizing option position profitability
 
