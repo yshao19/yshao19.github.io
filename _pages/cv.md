@@ -24,20 +24,25 @@ Education
 
 Research Experience
 =====
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant
+  * Department of Statistics, University of Georgia, 05/2022 - 09/2022
+  * Topics: Time series analysis, nonparametric learning, quantile regression
+  * Supervisor: Dr. Ting Zhang
+    
+* Research Assistant
+  * Department of Mathematics and Statistics, Boston University, 09/2019 - 05/2024
+  * Topics: Nonstationary time series, time-varying correlation, semiparametric models
+  * Supervisor: Dr. Ting Zhang
+    
+* Research Assistant,
+  * Applied Mathematics and Statistics Department, Johns Hopkins University, 12/2017 - 05/2019
+  * Topics: Stochastic fluid queues, ruin theory, distributed denial of service
+  * Supervisor: Dr. Antwan D. Clark
+    
+* Research Assistant
+  * Lab of Information System Application, Renmin University of China, 08/2015 - 06/2017
+  * Topics: Machine learning, sentiment analysis, feature engineering
+  * Supervisor: Dr. Wei Xu
 
 Industry Experience
 =====
