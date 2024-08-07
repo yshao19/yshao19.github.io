@@ -1,18 +1,18 @@
 ---
 title: 'Machine Learning in Gwent / 昆特牌的机器学习打法'
 date: 2022-05-25
-excerpt: '前些日子颇不务正业，玩了玩一款休闲小游戏，名叫《小杰来帮忙》，又名《巫师三：狂猎》(The Witcher III : Wild Hunt)'
+excerpt: '前些日子颇不务正业，玩了玩一款休闲小游戏，名叫《小杰来帮忙》，又名《巫师三：狂猎》(The Witcher III : Wild Hunt).'
 collection: portfolio
 ---
 
 # 前言
 前些日子颇不务正业，玩了玩一款休闲小游戏，名叫《小杰来帮忙》，又名《巫师三：狂猎》(The Witcher III : Wild Hunt)。
-![巫师三：游戏截图](https://upload-images.jianshu.io/upload_images/13641295-31ed4a4db3e067a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![巫师三：游戏截图](<img src='/images/portfolio/WitcherIII.png'>)
 
 
 这个游戏可能并不是非常有名，任务节奏非常的悠闲，小杰 (Geralt) 在聊天喝茶的时候，总是喜欢跟他的朋友们玩玩昆特牌 (Gwent) 。这个卡牌类游戏倒是引起了我的兴趣，即便是在大战前的紧要关头，也会抓紧时间，先和旅店老板打两局牌再走。可是，后期的几场大赛总是不能如意，尤其是在“大赌局” (High Stakes) 中与莎莎 (Sasha) 夫人的一场比赛，险象环生，挣扎良久才勉强过关，让我义愤难平。在不停的摸索中，我的打法逐渐发生了变化，从起先的快攻到后来的间谍流，再往后则采纳了欲扬先抑的策略。几经转变打法，我不禁思考，作为一个博弈游戏，昆特牌是否有其最优策略？如果有其最优策略，我们是否能够用合理的手段把它寻找出来呢？作为一个非常不熟悉机器学习 (Machine Learning) 的“机器学习助教”，我自然而然的反应便是：能不能设计一款机器学习的软件，让机器自行发掘出昆特牌的最优打法。问题是，这个真的可以实现吗？答案当然是肯定的，毕竟很多年前，人类博弈游戏最高峰的围棋已经被 AlphaGo 所征服，对于这样一个人人都可以上手的卡牌类游戏，想必其机器学习算法也并不复杂。
 
-![昆特牌示意图](https://upload-images.jianshu.io/upload_images/13641295-a877da45d2bd7a1b.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![昆特牌示意图](/images/portfolio/Gwent.png)
 
 
 于是乎趁几日闲来无事，我便着手去做一个昆特牌的机器学习打法教程。但是鉴于鄙人才疏学浅，编程水平尤为欠缺，想要一个人去实现全部的昆特牌内容，恐怕有些困难，故自作主张，将昆特牌规则进行了一定程度的简化。现将简版规则介绍如下：
