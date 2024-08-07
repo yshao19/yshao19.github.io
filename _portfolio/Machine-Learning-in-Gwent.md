@@ -5,13 +5,6 @@ excerpt: '前些日子颇不务正业，玩了玩一款休闲小游戏，名叫�
 collection: portfolio
 ---
 
-<style>
-h1 { font: 26pt song !important; }
-h2 { font: 22pt song !important; }
-h3 { font: 16pt song !important; }
-p { font: 14pt kai !important; }
-</style>
-
 # 前言
 前些日子颇不务正业，玩了玩一款休闲小游戏，名叫《小杰来帮忙》，又名《巫师三：狂猎》(The Witcher III : Wild Hunt)。
 ![巫师三：游戏截图](https://upload-images.jianshu.io/upload_images/13641295-31ed4a4db3e067a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
