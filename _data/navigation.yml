@@ -11,12 +11,14 @@ main:
     
   # - title: "Portfolio"
   #  url: /portfolio/
-        
+  
+  - title: "CV"
+    url: /cv/
+    
   - title: "Hall of Million Tomes / 品万卷堂"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+
     
   # - title: "Guide"
   #   url: /markdown/
