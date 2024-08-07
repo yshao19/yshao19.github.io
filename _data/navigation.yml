@@ -12,10 +12,10 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Hall of Million Tomes / 品万卷堂"
-    url: /year-archive/
+  # - title: "Hall of Million Tomes / 品万卷堂"
+  #  url: /year-archive/
     
-  - title: "Portfolio"
+  - title: "Hall of Million Tomes / 品万卷堂"
     url: /portfolio/
     
   # - title: "Guide"
