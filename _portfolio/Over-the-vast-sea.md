@@ -1,5 +1,5 @@
 ---
-title: 'Story of Loulan / 在苍茫的大海上'
+title: 'Over the Vast Sea / 在苍茫的大海上'
 date: 2014-06-01
 excerpt: '重温那些令我们感动的凡尔纳科幻经典'
 collection: portfolio
