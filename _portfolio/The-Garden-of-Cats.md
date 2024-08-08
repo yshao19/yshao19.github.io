@@ -1,5 +1,5 @@
 ---
-title: "The Garden of Cats/ 猫园记"
+title: "The Garden of Cats / 猫园记"
 excerpt: "呜呼猫园，虽曰爱猫，其实无猫，不亦悲乎!"
 date: 2021-05-04
 collection: portfolio
