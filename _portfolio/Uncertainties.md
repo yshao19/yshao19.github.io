@@ -1,5 +1,12 @@
+---
+title: 'Uncertainties / 变数'
+date: 2016-11-29
+excerpt: '往事數無定，是非變里觀。機心雖忘盡，文字半含酸。'
+collection: portfolio
+---
 
 `往事數無定，是非變里觀`
+
 `機心雖忘盡，文字半含酸`
 
 # 一
