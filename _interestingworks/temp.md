@@ -1,4 +1,3 @@
-
 ---
 title: "A stratified penalization method for semiparametric variable labeling of multi-output time-varying coefficient models"
 collection: publications
