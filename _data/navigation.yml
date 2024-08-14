@@ -14,9 +14,11 @@ main:
     
   # - title: "Hall of Million Tomes / 品万卷堂"
   #  url: /year-archive/
+
+  - title: "Additional Insights"
+    url: /interestingworks/
     
   - title: "Hall of Million Tomes / 品万卷堂"
     url: /portfolio/
     
-  # - title: "Guide"
-  #   url: /markdown/
+
