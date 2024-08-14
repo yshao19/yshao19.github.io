@@ -1,6 +1,6 @@
 ---
 title: "A stratified penalization method for semiparametric variable labeling of multi-output time-varying coefficient models"
-collection: publications
+collection: interestingworks
 permalink: 
 excerpt: 
 date: 2023-10-01
