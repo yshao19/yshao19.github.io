@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Other Interesting Works"
-permalink: /Works/
+permalink: /interestingworks/
 author_profile: true
 ---
 
