@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Other Interesting Works"
+title: "Additional Insights"
 permalink: /interestingworks/
 author_profile: true
 ---
@@ -11,6 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+{% for post in site.interestingworks reversed %}
   {% include archive-single.html %}
 {% endfor %}
