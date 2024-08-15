@@ -1,5 +1,5 @@
 ---
-title: 'Moby Dick, A Silent Roar to Capitalist Society'
+title: 'Moby Dick A Silent Roar to Capitalist Society'
 date: 2018-11-30
 excerpt: 'After closing this book and rethinking it, we will definitely be amazed by the proficiency of Melville's great novels.'
 collection: portfolio
