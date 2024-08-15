@@ -1,5 +1,5 @@
 ---
-title: 'Document of a Little Poem / 一首小诗的事'
+title: 'Moby Dick: A Silent Roar to Capitalist Society'
 date: 2018-08-18
 excerpt: '这几日颇有记日记的习惯。今晚又在家中写日记，回想白天这一首小诗做的，虽然文笔不怎么样，过程还是蛮有意思的.'
 collection: portfolio
