@@ -1,7 +1,7 @@
 ---
-title: 'Moby Dick A Silent Roar to Capitalist Society'
-date: 2018-11-30
-excerpt: 'After closing this book and rethinking it, we will definitely be amazed by the proficiency of Melville's great novels.'
+title: 'Document of a Little Poem / 一首小诗的事'
+date: 2018-08-18
+excerpt: '这几日颇有记日记的习惯。今晚又在家中写日记，回想白天这一首小诗做的，虽然文笔不怎么样，过程还是蛮有意思的.'
 collection: portfolio
 ---
 In Herman Melville's Moby Dick, the narrator, Ishmael, takes an adventure on board a whale-hunting ship Pequod. After a long sail aiming at hunting a white whale called Moby Dick, Pequod finally met it and was destroyed in the fight with it. The final fate of Pequod seems to be determined at the beginning of the novel and cannot possibly be avoided because the whole novel is enveloped in a gloomy and ominous atmosphere. From the text of the novel, we can clearly get a sense that people on board Pequod do not have control over their own fates and that all characters are doomed to die. The reason the author delivers such a feeling to readers is not hard to understand. The novel is written in the 19th century, at a time when colonialism and capitalism were prevalent in the Western world. However, some latent dangers were involved in the expansion of the modern capitalist society. For instance, the relationship between human beings did not develop as fast as the social desire for capital, which caused more severe unfairness in society and little control over their own lives. By describing the story of whaling, the author wanted to warn people that the direction in which society was moving was not as good as people expected. People need to slow down and rethink the expansion of the world so that they can avoid the final catastrophe of the entire society, as in the story of Pequod.
