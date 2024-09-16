@@ -21,7 +21,7 @@ Education
 
 Research Experience
 =====
-* Research Assistant,  07/2024 - 09/2024, 05/2022 - 09/2022,
+* Research Assistant,  07/2024 - 09/2024, 05/2022 - 09/2022
   * Department of Statistics, University of Georgia
   * Topics: Time series analysis, nonparametric learning, quantile regression
   * Supervisor: Dr. Ting Zhang
@@ -44,7 +44,11 @@ Research Experience
 Industry Experience
 =====
 
-* Portfolio Management Intern, 09/2023 - 01/2024, 01/2023 - 05/2023
+* Senior Business Consultant, 09/2024 - Present
+  * Ernst & Young LLC, New York, NY
+  
+
+* Portfolio Management, 09/2023 - 01/2024, 01/2023 - 05/2023
   * Stepstone Group, La Jolla, CA
   * Calculated and analyzed the net asset values for private equity assets among all industry groups as time series
   * Developed a method to interpolate quarterly unrealized asset value in the database using cash flows of private equities
@@ -52,7 +56,7 @@ Industry Experience
 driving significant improvements in accuracy and providing valuable insights for predicting market trends
   * Developed multi-factor models for infrastructure portfolio analysis and incorporated them into Daily Valuation Engine
 
-* Quantitative Researcher Intern, 06/2023 - 08/2023
+* Quantitative Researcher, 06/2023 - 08/2023
   * IMC Trading, Chicago, IL 
   * Designed and implemented statistical methodologies to identify and execute trading signals for option implied volatility
   * Conducted in-depth Profit and Loss analysis using advanced option theory, leading to creation of dynamic optimization strategies for maximizing option position profitability
