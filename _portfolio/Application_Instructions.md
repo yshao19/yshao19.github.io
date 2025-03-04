@@ -92,6 +92,23 @@ GPA>=TOEFL>=GRE>=科研论文> anything else
 ### 专业讲解
 
 ### 学校排名
+```
+1. Princeton
+2. Baruch
+3. CMU
+4. UCBerkeley
+5. MIT
+6. Columbia FE/FM
+7. UChicago
+8. GIT
+9. Cornell
+10. NYU
+11. North Carolina
+12. Rutgers
+13. Fordham
+14. UWashington
+15. UCLA
+```
 
 ### 就业需求
 
@@ -128,10 +145,55 @@ Quantitative, Algorithmic, High-Frequency Trading
 
 ### 本科规划
 
+## 金融学
+
+
+
+### 专业讲解
+
+```
+1. MIT
+2. UC Berkeley
+3. Yale
+4. UCLA
+5. NYU
+6. Columbia
+7. Texas
+8. USC
+9. BU
+10. Florida
+11. Georgetown
+12. GIT
+13. Wisconsin
+14. UIUC
+15. Purdue
+```
+
+### 就业需求
+### 就读体验
+### 申请难度
+### 本科规划
+
 
 ## 商业分析 Business Analytics
 ### 专业讲解
 商业分析是2010年以后才逐渐形成的新兴专业，时至今日也并不是所有的学校都拥有完善的商业分析专业。
+
+```
+1. MIT
+2. UCLA
+3. Columbia
+4. Duke
+5. CMU
+6. Texas
+7. USC
+8. UWashington
+9. Purdue
+10. Minnesota
+11. Boston
+12. Texas A&M
+
+```
 
 ### 就读体验
 相较于数学和计算机，商业分析要轻松很多。其课程设置更加偏向于实践应用，有时会和金融学进行绑定，提供双硕士学位项目。学制在一年到一年半不等。以下是一个商业分析专业的课程设置：
@@ -202,7 +264,6 @@ United Gaming	Media/Entertainment
 Wayfair	Retail
 BlackRock	Financial
 ```
-
 ### 本科规划
 
 
@@ -213,3 +274,5 @@ BlackRock	Financial
 ### 就读体验
 ### 申请难度
 ### 本科规划
+
+
