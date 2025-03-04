@@ -15,7 +15,7 @@
 ### 本科规划
 
 
-## 数学
+## 数学 Mathematics and Applied Mathematics
 ### 专业讲解
 ### 就业需求
 ### 就读体验
@@ -86,3 +86,124 @@ GRE 330+
 GPA>=TOEFL>=GRE>=科研论文> anything else
 另外，上述我指出名的课程都是在数学领域非常重要的课程，虽然课程安排上有些是选修，但是强烈建议当成必修课去上，不然之后还得补回来
 望多加努力，学业有成！
+
+
+## 金融工程 Financial Engineering
+### 专业讲解
+
+### 学校排名
+
+### 就业需求
+
+### 就读体验
+
+课程设置：
+```
+Core financial mathematics requirements (2 courses)
+Introduction to Financial Derivatives	Fall
+Interest Rate and Credit Derivatives	Spring
+
+ore applied mathematics requirements (3 courses)
+Applied Statistics and Data Analysis
+Introduction to Data Science	Fall
+Stochastic Processes and Applications to Finance	Fall
+Time Series Analysis	Spring
+
+Electives (7 courses)
+Of the electives –
+
+One elective must be in Applied Mathematics and Statistics
+Two electives must be in Financial Mathematics
+Four additional electives should be from the approved electives listing and can be Financial Mathematics, Applied Mathematics and Statistics or Free Electives.
+
+Students can choose any of the courses listed below.  Alternatively, they can choose to tailor their selection of electives based on one of the following concentrations:
+Asset Management
+Derivatives
+Fixed Income and Commodities
+Risk Management
+Quantitative, Algorithmic, High-Frequency Trading
+```
+
+### 申请难度
+
+### 本科规划
+
+
+## 商业分析 Business Analytics
+### 专业讲解
+商业分析是2010年以后才逐渐形成的新兴专业，时至今日也并不是所有的学校都拥有完善的商业分析专业。
+
+### 就读体验
+相较于数学和计算机，商业分析要轻松很多。其课程设置更加偏向于实践应用，有时会和金融学进行绑定，提供双硕士学位项目。学制在一年到一年半不等。以下是一个商业分析专业的课程设置：
+
+```
+1. Fall (13 credits)
+
+Foundations of Data Analytics (4 credits)
+Information Visualization (2 credits)
+Python and its Application to Business Analytics (2 credits)
+Intro to Probability and Statistics for Business and Economics (4 credits)
+Launching Your Global Career (1 credit)
+
+2. Spring (12-16 credits)
+
+Advanced Data Analytics (4 credits)
+Applied Econometrics with R (4 credits)
+Electives (4-8 credits)
+
+3. Summer (4 credits)
+Capstone:
+Internship
+Field Project
+Directed Research
+
+4. Fall (Remaining credits)
+Machine Learning and Data Analytics for Business and Finance (4 credits)
+Electives (Remaining credits)
+```
+
+### 申请难度
+相对来说，美国现有的商业分析专业对于国内的理工科背景的同学申请难度不大，主要的申请门槛是其英语成绩要求。相较于技术水平，商业分析更加看重的是学生对具体案例的综合分析能力。
+
+### 就业需求
+
+目前商业分析的就职方向比较宽泛，可以从事金融，市场营销，数据分析，咨询等行业，其中主要就职企业有以下：
+
+```
+Company Name	Industry
+Analysis Group	Consulting
+BJ's Wholesale Club, Inc.	Retail
+Blue Cross Blue Shield of Massachusetts	Healthcare
+Boston Children's Hospital	Healthcare
+Capital One	Financial
+CITIC Securities	Financial
+Dana-Farber Cancer Insitute	Healthcare
+Deloitte	Accounting Services
+EY	Accounting Services
+HSBC	Financial
+KPMG	Consulting
+M&T Bank	Financial
+Mastercard	Financial
+Mediahub	Marketing
+MilliporeSigma	Healthcare
+Morgan Stanley	Financial
+Red Bull	Consumer Packaged Goods
+SharkNinja	Manufacturing
+Takeda Pharmaceuticals	Healthcare
+Tripadvisor	Technology
+UMass Memorial Health	Healthcare
+United Gaming	Media/Entertainment
+Wayfair	Retail
+BlackRock	Financial
+```
+
+### 本科规划
+
+
+
+## 数据分析 Data Science
+### 专业讲解
+### 就业需求
+### 就读体验
+### 申请难度
+### 本科规划
